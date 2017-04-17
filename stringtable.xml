@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_OP_Grey_Storm">
+
+	<Key ID="STR_TB_missionTitle_TB_OP_Grey_Storm">
+		<Original>OP Grey Storm</Original>
+		<English>OP Grey Storm</English>
+		<German>OP Grey Storm</German>
+		<Italian>OP Grey Storm</Italian>
+		<Spanish>OP Grey Storm</Spanish>
+		<French>OP Grey Storm</French>
+		<Czech>OP Grey Storm</Czech>
+		<Russian>OP Grey Storm</Russian>
+		<Polish>OP Grey Storm</Polish>
+		<Hungarian>OP Grey Storm</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_OP_Grey_Storm">
+		<Original>TacBF A&amp;S[T-10]: OP Grey Storm</Original>
+		<English>TacBF A&amp;S[T-10]: OP Grey Storm</English>
+		<German>TacBF A&amp;S[T-10]: OP Grey Storm</German>
+		<Italian>TacBF A&amp;S[T-10]: OP Grey Storm</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: OP Grey Storm</Spanish>
+		<French>TacBF A&amp;S[T-10]: OP Grey Storm</French>
+		<Czech>TacBF A&amp;S[T-10]: OP Grey Storm</Czech>
+		<Russian>TacBF A&amp;S[T-10]: OP Grey Storm</Russian>
+		<Polish>TacBF A&amp;S[T-10]: OP Grey Storm</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: OP Grey Storm</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
